@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/css/main.f855e6bc.css",
+    "main.js": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/js/main.315b815e.js",
+    "static/js/236.0a70848e.chunk.js": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/js/236.0a70848e.chunk.js",
+    "static/media/logo.svg": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ljswan/tool-prosecute-criminals-titration-schedules.git/index.html",
+    "main.f855e6bc.css.map": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/css/main.f855e6bc.css.map",
+    "main.315b815e.js.map": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/js/main.315b815e.js.map",
+    "236.0a70848e.chunk.js.map": "/ljswan/tool-prosecute-criminals-titration-schedules.git/static/js/236.0a70848e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.315b815e.js"
+  ]
+}
